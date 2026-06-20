@@ -7,7 +7,7 @@ Idesign and build whatever i can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is Python, HTML, C, javascript, react. My favorite tools are appflowy, obsidian, figma and trae on my laptop.
+My main tech stack is Python, HTML, C, javascript. My favoured tools are vscode, docker, node.js and codex on my laptop.
 
 I have got a bunch of pinned projects, but my favorite is the weather because it was my first project that i ever worked on and pushed me to make more and difficult programs and projects.
 
